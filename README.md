@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="tenor.gif" width="736">
-</p>
-
-<p align="center">
   <img src="python.png" width="64" height="64">
   <img src="spacer.png" width="20" height="1">
   <img src="docker.png" width="64" height="64">
@@ -20,4 +16,8 @@
   <img src="Redis.png" width="64" height="64">
   <img src="spacer.png" width="20" height="1">
   <img src="SQL.png" width="64" height="64">
+</p>
+
+<p align="center">
+  <img src="tenor.gif" width="200">
 </p>
