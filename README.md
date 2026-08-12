@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-  <img src="tenor.gif" width="200">
+  <img src="tenor.gif" width="350">
 </p>
