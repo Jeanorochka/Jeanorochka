@@ -5,11 +5,6 @@
 </p>
 
 <p align="center">
-  Turning market hypotheses into reproducible research, execution-aware backtests,<br>
-  and trading systems with explicit risk budgets.
-</p>
-
-<p align="center">
   <img src="python.png" width="64" height="64" alt="Python">
   <img src="spacer.png" width="20" height="1" alt="">
   <img src="docker.png" width="64" height="64" alt="Docker">
