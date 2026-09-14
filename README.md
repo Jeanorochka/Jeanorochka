@@ -34,11 +34,11 @@
 
 ## What I do
 
-I build quantitative research and risk tools for systematic trading, focusing on market inefficiencies that survive costs, regime shifts, and real execution.
+I build quantitative research, execution, and risk systems for systematic trading, with a focus on market inefficiencies that survive fees, slippage, regime shifts, and real-world execution.
 
-- **Research:** momentum, mean reversion, relative value, VWAP, liquidity, volatility, arbitrage.
-- **Risk:** position sizing, drawdown, VaR/CVaR, concentration, and stress testing, as well as Monte-Carlo.
-- **Engineering:** Python and Julia for research; C++ and x86-64 for performance and security.
+- **Research:** statistical arbitrage, cross-venue arbitrage, momentum, mean reversion, relative value, VWAP, liquidity, volatility, and market microstructure.
+- **Risk:** position sizing, exposure, drawdown, VaR/CVaR, concentration, stress testing, and Monte Carlo simulation.
+- **Engineering:** OCaml for trading systems and strategy logic; C++ for latency-critical execution; Python and Julia for research, simulation, and data analysis; x86-64/Linux for low-level optimization and performance.
 
 Current projects cover equity signals, fixed-income analytics, and automated broker-report analysis.
 <p align="center">
