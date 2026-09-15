@@ -2,6 +2,15 @@
 <p align="center">
   <img src="PFP.png" width="60%" alt="Andrei Dunaev">
 </p>
+
+<p align="center">
+  <img
+    src="languages.png"
+    width="736"
+    alt="Python 49.2%, C++ 26.8%, Julia 15.7%, Assembly 8.3%"
+  >
+</p>
+
 <p align="center">
   <img src="python.png" width="64" height="64" alt="Python">
   <img src="spacer.png" width="20" height="1" alt="">
@@ -21,13 +30,7 @@
   <img src="spacer.png" width="20" height="1" alt="">
   <img src="SQL.png" width="64" height="64" alt="SQL">
 </p>
-<p align="center">
-  <img
-    src="languages.png"
-    width="736"
-    alt="Python 49.2%, C++ 26.8%, Julia 15.7%, Assembly 8.3%"
-  >
-</p>
+
 ## What I do
 
 I build quantitative research, execution, and risk systems for systematic trading, with a focus on market inefficiencies that survive fees, slippage, regime shifts, and real-world execution.
