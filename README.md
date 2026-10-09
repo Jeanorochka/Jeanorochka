@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Andrei Dunaev.</h1>
+<h1 align="center">Hi, I'm Andrei Dunaev (aka Jeanor) </h1>
 
 <p align="center">
   <img
