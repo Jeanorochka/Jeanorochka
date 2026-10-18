@@ -3,7 +3,7 @@
 <p align="center">
   <img
     src="Main.png"
-    width="900"
+    width="666"
     alt="Stack"
   >
 </p>
