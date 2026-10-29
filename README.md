@@ -7,6 +7,8 @@
 - **Исследования:** статистический арбитраж, межплощадочный арбитраж, momentum, mean reversion, relative value, VWAP, ликвидность, волатильность и микроструктура рынка (и заезженный z-score mean reversion).
 - **Риск:** размер позиции, экспозиция, просадка, VaR/CVaR, концентрация, стресс-тестирование и моделирование методом Монте-Карло, включая MCMC.
 
+Помимо основной деятельности, мне интересен computer science / низкоуровневое программирование, безопасность, сети и устройство систем.
+
 Крайне редко публикую фулл стек проекты, терминалы и стратегии в опенсорс.
 
 ## What I do
@@ -15,6 +17,8 @@ I build quantitative research, execution, and risk-management systems for system
 
 - **Research:** statistical arbitrage, cross-venue arbitrage, momentum, mean reversion, relative value, VWAP, liquidity, volatility, and market microstructure. (and the overused z-score mean reversion).
 - **Risk:** position sizing, exposure, drawdown, VaR/CVaR, concentration, stress testing, and Monte Carlo methods, including MCMC.
+
+Beyond my primary work, I'm interested in computer science, low-level programming, security, networking, and understanding how computer systems work.
 
 I rarely publish complete projects in open source.
 
